@@ -1,6 +1,0 @@
-package robot;
-
-public class Test {
-
-	public String name= null;
-}
