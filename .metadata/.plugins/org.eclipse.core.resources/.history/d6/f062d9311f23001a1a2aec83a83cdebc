@@ -147,7 +147,7 @@ public void insert(int user_id,String name,String password) {
 		  ps.setString(3, password);
 		  int i=ps.executeUpdate();
 		  if (i>0) {
-	    		System.out.println(i+  "件登録されました");
+	    		System.out.println(i+  "件更新されました");
 	     }
         } catch (SQLException e) {
 			 e.printStackTrace();
