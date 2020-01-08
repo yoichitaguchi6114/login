@@ -35,6 +35,7 @@
   <form method="post" action="greeting-out.jsp">
   <input type="text" name="user">
   <input type="submit" value="確定">
+  </form>
   <br>
   <form method="post" action="total-out.jsp">
   <input type="text" name="price">
@@ -44,7 +45,6 @@
   <input type="text" name="delivery">
   円＝
   <input type="submit" value="計算">
-  </form>
   </form>
   </body>
 </html>

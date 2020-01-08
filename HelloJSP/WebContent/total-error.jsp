@@ -8,7 +8,7 @@
 </head>
 <body>
 
-<%@page isErrorPage="ture" %>
+<%@page isErrorPage="true" %>
 <p>数値を入力してください。</p>
 <button onclick="history.back()">戻る</button>
 <br>
@@ -24,9 +24,11 @@
 </tr>
 <tr>
   <td><strong>スタックトレース</strong></td>
-  <td><%=exception.printStackTrace(new java.io.PrintWriter(out)); %>
-  </td>
-</tr>
+  <td>
+  <%
+  exception.printStackTrace(new java.io.PrintWriter(out));
+  %>
+  </td></tr>
 
 </table>
 
