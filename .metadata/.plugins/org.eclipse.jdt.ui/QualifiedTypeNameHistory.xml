@@ -7,4 +7,7 @@
 <fullyQualifiedTypeName name="java.sql.Array"/>
 <fullyQualifiedTypeName name="org.omg.Messaging.SyncScopeHelper"/>
 <fullyQualifiedTypeName name="java.rmi.server.SocketSecurityException"/>
+<fullyQualifiedTypeName name="java.sql.Connection"/>
+<fullyQualifiedTypeName name="java.lang.ClassNotFoundException"/>
+<fullyQualifiedTypeName name="com.internousdev.login.util.DBConnector"/>
 </qualifiedTypeNameHistroy>
