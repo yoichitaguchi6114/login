@@ -1,6 +1,6 @@
 set names utf8;
 set foreign_key_checks = 0;
-drop datavbase if exists logindb taguchi;
+drop database if exists logindb_taguchi;
 create database logindb_taguchi;
 use logindb_taguchi;
 
