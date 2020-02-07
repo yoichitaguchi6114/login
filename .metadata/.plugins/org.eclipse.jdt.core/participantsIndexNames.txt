@@ -1,0 +1,9 @@
+INDEX VERSION 1.130
+C:\Users\testuser\Desktop\workspace\workspace-taguchi\test\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3677105585.index
+\HelloServlet\src
+C:\Users\testuser\Desktop\workspace\workspace-taguchi\test\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1046646953.index
+\login\src
+C:\Users\testuser\Desktop\workspace\workspace-taguchi\test\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3363271827.index
+\WebProj2\src
+C:\Users\testuser\Desktop\workspace\workspace-taguchi\test\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1193100348.index
+\WebProj\src
